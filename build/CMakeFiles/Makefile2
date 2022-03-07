@@ -679,25 +679,25 @@ python/CMakeFiles/python_target.dir/clean:
 # Target rules for target python/CMakeFiles/python_package.dir
 
 # All Build rule for target.
-python/CMakeFiles/python_package.dir/all: python/CMakeFiles/MainWindow_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/StartDialog_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ImportDialog_ui.py.dir/all
-python/CMakeFiles/python_package.dir/all: python/CMakeFiles/RecordsetWidget_ui.py.dir/all
-python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ProgressDialog_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ImportManager_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/GroupWidget_ui.py.dir/all
+python/CMakeFiles/python_package.dir/all: python/CMakeFiles/MainWindow_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ParticipantWidget_ui.py.dir/all
+python/CMakeFiles/python_package.dir/all: python/CMakeFiles/RecordsetWidget_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ResultWidget_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ImportBrowser_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ExportCSV_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ProcessSelectDialog_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/GraphWidget_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/DataInfosWidget_ui.py.dir/all
+python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ProgressDialog_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/ImportMatchDialog_ui.py.dir/all
-python/CMakeFiles/python_package.dir/all: python/CMakeFiles/CrashDialog_ui.py.dir/all
-python/CMakeFiles/python_package.dir/all: python/CMakeFiles/python_target.dir/all
-python/CMakeFiles/python_package.dir/all: python/CMakeFiles/StreamWindow_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/CMakeFiles/core_rc.py.dir/all
+python/CMakeFiles/python_package.dir/all: python/CMakeFiles/StreamWindow_ui.py.dir/all
+python/CMakeFiles/python_package.dir/all: python/CMakeFiles/python_target.dir/all
+python/CMakeFiles/python_package.dir/all: python/CMakeFiles/CrashDialog_ui.py.dir/all
 python/CMakeFiles/python_package.dir/all: python/env/CMakeFiles/python-env.dir/all
 	$(MAKE) $(MAKESILENT) -f python\CMakeFiles\python_package.dir\build.make python/CMakeFiles/python_package.dir/depend
 	$(MAKE) $(MAKESILENT) -f python\CMakeFiles\python_package.dir\build.make python/CMakeFiles/python_package.dir/build
@@ -724,24 +724,24 @@ python/CMakeFiles/python_package.dir/clean:
 # Target rules for target python/CMakeFiles/python-all.dir
 
 # All Build rule for target.
-python/CMakeFiles/python-all.dir/all: python/CMakeFiles/MainWindow_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/StartDialog_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ImportDialog_ui.py.dir/all
-python/CMakeFiles/python-all.dir/all: python/CMakeFiles/RecordsetWidget_ui.py.dir/all
-python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ProgressDialog_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ImportManager_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/GroupWidget_ui.py.dir/all
+python/CMakeFiles/python-all.dir/all: python/CMakeFiles/MainWindow_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ParticipantWidget_ui.py.dir/all
+python/CMakeFiles/python-all.dir/all: python/CMakeFiles/RecordsetWidget_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ResultWidget_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ImportBrowser_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ExportCSV_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ProcessSelectDialog_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/GraphWidget_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/DataInfosWidget_ui.py.dir/all
+python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ProgressDialog_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/ImportMatchDialog_ui.py.dir/all
-python/CMakeFiles/python-all.dir/all: python/CMakeFiles/CrashDialog_ui.py.dir/all
-python/CMakeFiles/python-all.dir/all: python/CMakeFiles/StreamWindow_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/CMakeFiles/core_rc.py.dir/all
+python/CMakeFiles/python-all.dir/all: python/CMakeFiles/StreamWindow_ui.py.dir/all
+python/CMakeFiles/python-all.dir/all: python/CMakeFiles/CrashDialog_ui.py.dir/all
 python/CMakeFiles/python-all.dir/all: python/env/CMakeFiles/python-env.dir/all
 	$(MAKE) $(MAKESILENT) -f python\CMakeFiles\python-all.dir\build.make python/CMakeFiles/python-all.dir/depend
 	$(MAKE) $(MAKESILENT) -f python\CMakeFiles\python-all.dir\build.make python/CMakeFiles/python-all.dir/build

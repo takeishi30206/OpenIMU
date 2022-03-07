@@ -26,19 +26,10 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "MainWindow_ui.py::@e1ac5446165bc0cf31e4"
-		},
-		{
 			"id" : "StartDialog_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
 			"id" : "ImportDialog_ui.py::@e1ac5446165bc0cf31e4"
-		},
-		{
-			"id" : "RecordsetWidget_ui.py::@e1ac5446165bc0cf31e4"
-		},
-		{
-			"id" : "ProgressDialog_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
 			"id" : "ImportManager_ui.py::@e1ac5446165bc0cf31e4"
@@ -47,7 +38,13 @@
 			"id" : "GroupWidget_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
+			"id" : "MainWindow_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
 			"id" : "ParticipantWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "RecordsetWidget_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
 			"id" : "ResultWidget_ui.py::@e1ac5446165bc0cf31e4"
@@ -68,16 +65,19 @@
 			"id" : "DataInfosWidget_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
+			"id" : "ProgressDialog_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
 			"id" : "ImportMatchDialog_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
-			"id" : "CrashDialog_ui.py::@e1ac5446165bc0cf31e4"
+			"id" : "core_rc.py::@e1ac5446165bc0cf31e4"
 		},
 		{
 			"id" : "StreamWindow_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
-			"id" : "core_rc.py::@e1ac5446165bc0cf31e4"
+			"id" : "CrashDialog_ui.py::@e1ac5446165bc0cf31e4"
 		},
 		{
 			"id" : "python-env::@8128fb91c7b885181ea4"
