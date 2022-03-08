@@ -1,0 +1,126 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"python/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "ImportManager_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "GroupWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ParticipantWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "RecordsetWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "MainWindow_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "StartDialog_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ImportDialog_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ResultWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ImportBrowser_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ExportCSV_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ProcessSelectDialog_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "GraphWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "DataInfosWidget_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "ProgressDialog_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "CrashDialog_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "core_rc.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "StreamWindow_ui.py::@e1ac5446165bc0cf31e4"
+		},
+		{
+			"id" : "python-env::@8128fb91c7b885181ea4"
+		},
+		{
+			"id" : "ImportMatchDialog_ui.py::@e1ac5446165bc0cf31e4"
+		}
+	],
+	"id" : "python-all::@e1ac5446165bc0cf31e4",
+	"name" : "python-all",
+	"paths" : 
+	{
+		"build" : "python",
+		"source" : "python"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "build/python/CMakeFiles/python-all",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/python/CMakeFiles/python-all.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
